@@ -2,4 +2,8 @@ some sentence
 another sentence
 Add A sentence
 Add C sentence
+<<<<<<< HEAD
+Add E sentence
+=======
 Add D sentence
+>>>>>>> origin/main
